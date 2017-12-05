@@ -1,6 +1,8 @@
 # sparkClassifier
 MultilayerPerceptronClassifier &amp; RandomForestClassifier .....
+
 关于 Word2Vec
+
 Word2Vec 是一个用来将词表示为数值型向量的工具，其基本思想是将文本中的词映射成一个 K 维数值向量 (K 通常作为算法的超参数)，这样文本中的所有词就组成一个 K 维向量空间，这样我们可以通过计算向量间的欧氏距离或者余弦相似度得到文本语义的相似度。Word2Vec 采用的是 Distributed representation 的词向量表示方式，这种表达方式不仅可以有效控制词向量的维度，避免维数灾难 (相对于 one-hot representation)，而且可以保证意思相近的词在向量空间中的距离较近。
 Word2Vec 实现上有两种模型 CBOW (Continuous Bag of Words, 连续词袋模型) 和 Skip-Gram，简单概括一下区别就是：CBOW 是根据语境预测目标单词，Skip-Gram 根据当前单词预测语境。Spark 的实现采用的是 Skip-Gram 模型 。假设我们有 N 个待训练的单词序列样本，记作 w1,w2...wn, Skip-Gram 模型的训练目标是最大化平均对数似然，即
 Figure xxx. Requires a heading
@@ -17,7 +19,10 @@ maxIter，算法求最大迭代次数，小于或等于分区数。默认是 1.
 minCount, 只有当某个词出现的次数大于或者等于 minCount 时，才会被包含到词汇表里，否则会被忽略掉。
 stepSize，优化算法的每一次迭代的学习速率。默认值是 0.025.
 这些参数都可以在构造 Word2Vec 实例的时候通过 setXXX 方法设置。
+
+
 关于多层感知器
+
 多层感知器 (MLP, Multilayer Perceptron) 是一种多层的前馈神经网络模型，所谓前馈型神经网络，指其从输入层开始只接收前一层的输入，并把计算结果输出到后一层，并不会给前一层有所反馈，整个过程可以使用有向无环图来表示。该类型的神经网络由三层组成，分别是输入层 (Input Layer)，一个或多个隐层 (Hidden Layer)，输出层 (Output Layer)，如图所示：
 图 1. 多层感知器模型
 Figure xxx. Requires a heading

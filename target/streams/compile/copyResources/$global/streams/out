@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(D:\git\opensource\IrisSpark\src\main\resources\data_banknote_authentication.txt,D:\git\opensource\IrisSpark\target\scala-2.10\classes\data_banknote_authentication.txt)[0m
+[0m[[0mdebug[0m] [0m	(D:\git\opensource\IrisSpark\src\main\resources\iris.txt,D:\git\opensource\IrisSpark\target\scala-2.10\classes\iris.txt)[0m
+[0m[[0mdebug[0m] [0m	(D:\git\opensource\IrisSpark\src\main\resources\SMSSpamCollection,D:\git\opensource\IrisSpark\target\scala-2.10\classes\SMSSpamCollection)[0m

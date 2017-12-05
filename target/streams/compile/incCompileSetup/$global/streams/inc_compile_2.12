@@ -1,0 +1,178 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> D:\git\opensource\IrisSpark\target\scala-2.12\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+2 items
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> D:\git\opensource\IrisSpark\target\scala-2.12\classes\IrisData$.class
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> D:\git\opensource\IrisSpark\target\scala-2.12\classes\IrisData.class
+binary dependencies:
+4 items
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> C:\Users\lxb\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.6.3.jar
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> C:\Users\lxb\.ivy2\cache\org.apache.spark\spark-mllib_2.10\jars\spark-mllib_2.10-1.6.3.jar
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> C:\Users\lxb\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.4.jar
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> D:\ProgramFiles\Java\jdk1.8.0_121\jre\lib\rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+2 items
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> IrisData
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> IrisData$
+used names:
+94 items
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> -
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> <init>
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> ==
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> Algo
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> Any
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> AnyRef
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> Array
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> ArrayOps
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> B
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> Boolean
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> CanBuildFrom
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> Class
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> ClassTag
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> Classification
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> DecisionTree
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> DecisionTreeModel
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> Double
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> Entropy
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> Function1
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> Impurity
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> Int
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> IrisData
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> LabeledPoint
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> Nothing
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> Object
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> Predef
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> RDD
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> ScalaRunTime
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> SparkConf
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> SparkContext
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> String
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> StringOps
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> T
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> That
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> U
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> Unit
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> Value
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> Vector
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> Vectors
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> _$2
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> _$3
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> _$4
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> _$7
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> apache
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> apply
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> arrayClass
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> augmentString
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> canBuildFrom
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> configuration
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> d
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> data
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> dense
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> dtModel
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> features
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> first
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> foreach
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> impurity
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> label
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> linalg
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> line
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> lp
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> map
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> materializeClassTag
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> maxTreeDepth
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> mllib
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> ofRef
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> org
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> package
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> predict
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> predictionsDtModel
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> println
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> r
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> rawData
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> records
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> refArrayOps
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> reflect
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> regression
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> replaceAll
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> runtime
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> sc
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> scala
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> setAppName
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> setMaster
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> size
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> slice
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> spark
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> sparkConf
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> split
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> textFile
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> toDouble
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> toInt
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> train
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> tree
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> trimmed
+product stamps:
+2 items
+D:\git\opensource\IrisSpark\target\scala-2.12\classes\IrisData$.class -> lastModified(1510134158794)
+D:\git\opensource\IrisSpark\target\scala-2.12\classes\IrisData.class -> lastModified(1510134158800)
+source stamps:
+1 items
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> hash(1a2be7730f543386c02f95d2b71db0d08abb263a)
+binary stamps:
+4 items
+C:\Users\lxb\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.6.3.jar -> lastModified(1478130698000)
+C:\Users\lxb\.ivy2\cache\org.apache.spark\spark-mllib_2.10\jars\spark-mllib_2.10-1.6.3.jar -> lastModified(1478130751000)
+C:\Users\lxb\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.4.jar -> lastModified(1507705630000)
+D:\ProgramFiles\Java\jdk1.8.0_121\jre\lib\rt.jar -> lastModified(1489375469603)
+class names:
+4 items
+C:\Users\lxb\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.6.3.jar -> org.apache.spark.rdd.RDD
+C:\Users\lxb\.ivy2\cache\org.apache.spark\spark-mllib_2.10\jars\spark-mllib_2.10-1.6.3.jar -> org.apache.spark.mllib.tree.model.DecisionTreeModel
+C:\Users\lxb\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.4.jar -> scala.reflect.ClassTag$
+D:\ProgramFiles\Java\jdk1.8.0_121\jre\lib\rt.jar -> java.lang.Object
+internal apis:
+1 items
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw02XImAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwhxUquHQABm5vdGlmeXNxAH4ADFCjbW90AAR3YWl0c3EAfgAMHf83cXQADSRhc0luc3RhbmNlT2ZzcQB+AAxCYSKqdAAGZXF1YWxzc3EAfgAMY77QVXQADGFzSW5zdGFuY2VPZnNxAH4ADCaDg+l0AAxzeW5jaHJvbml6ZWRzcQB+AAxSTmJudAANJGlzSW5zdGFuY2VPZnNxAH4ADOfMVP10AARtYWluc3EAfgAM5bpKYXQACW5vdGlmeUFsbHNxAH4ADE9/lvF0AAxpc0luc3RhbmNlT2ZzcQB+AAyDRAY9dAACPT1zcQB+AAzsnG8kdAAFY2xvbmVzcQB+AAxLkL35dAAIdG9TdHJpbmdzcQB+AAyJYcCsdAACIT1zcQB+AAzM3/A2dAAIZ2V0Q2xhc3NzcQB+AAzYZNJEdAAISXJpc0RhdGFzcQB+AAzE3nGwdAACbmVzcQB+AAxxlWv2dAACZXFzcQB+AAwIEXikdAACIyNzcQB+AAzpDM8OdAAIZmluYWxpemVzcQB+AAz+Jl5qdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+AC11cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBec3EAfgBZdXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAddXEAfgBQAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF10AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBdc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB5dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AZnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AU3QABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AbVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AXXNxAH4AbHQABUFycmF5cQB+AHJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AbHQABlN0cmluZ3NxAH4AcHNxAH4Ac3VxAH4AdgAAAANzcQB+AHh0AARqYXZhc3EAfgB4dAAEbGFuZ3EAfgB9c3EAfgBZdXEAfgA8AAAAAHNxAH4AWXVxAH4AkQAAAAJzcQB+AGx0AAZPYmplY3RxAH4AlXNxAH4AbHQAA0FueXEAfgBydXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV+bAoTkdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQANUQ6XGdpdFxvcGVuc291cmNlXElyaXNTcGFya1x0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUGivncw9UM4bAL5XStx2w0Iq7Jjo=
+external apis:
+0 items
+source infos:
+1 items
+D:\git\opensource\IrisSpark\src\main\scala\IrisData.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX5sChOR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANUQ6XGdpdFxvcGVuc291cmNlXElyaXNTcGFya1x0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
